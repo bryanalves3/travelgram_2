@@ -28,7 +28,6 @@
 }
 
 body {
-  font: var(--text-lg);
   color: var(--text-color-secondary);
   background-color: var(--bg);
 }
